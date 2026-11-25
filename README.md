@@ -1,5 +1,9 @@
 # WOK HEI — 镬气大排档
 
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/lufeng69/wok-hei/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/lufeng69/wok-hei/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+
 A wok-station cooking game, built for the make.fun best cooking game bounty. Run a street-food wok stall: take orders off the board, toss ingredients into the wok, mind the heat, plate each dish while it sits in its perfect window, and ring the bell to serve before the customer's patience runs out.
 
 Play it: open `game/index.html` in a desktop browser (or serve `game/` with any static server). Keyboard and mouse, no network, no install.
@@ -24,6 +28,10 @@ Play it: open `game/index.html` in a desktop browser (or serve `game/` with any 
 - `vendor/makefun-game.ts` — the kit's dossier library, unchanged.
 
 Built with Muse. Referral code: `kcn5v9j0`
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=kcn5v9j0&utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137) · AI agents build software for cash rewards</sub>
 
 ## License
 
